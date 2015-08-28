@@ -1,3 +1,5 @@
+[![Dependency Status](https://david-dm.org/Devoxx4KidsDE/workshop-quadcopter.svg)](https://david-dm.org/Devoxx4KidsDE/workshop-quadcopter)
+
 # Devoxx4Kids quadcopter workshops
 
 This project keeps the tasks for the Devoxx4Kids quadcopter workshop.
