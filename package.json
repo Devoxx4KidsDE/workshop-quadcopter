@@ -1,26 +1,30 @@
 {
-    "name": "ardrone-autonomy-d4k",
-    "version": "0.1.0",
+    "name": "devoxx4kids-workshop-quadcopter",
+    "version": "1.0.0",
     "description": "Workshop for the Devoxx4Kids event based on ardrone-autonomy",
     "repository": {
         "type": "git",
-        "url": "git@github.com:derTobsch/ardrone-autonomy-d4k.git"
+        "url": "git@github.com:Devoxx4KidsDE/workshop-quadcopter.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Devoxx4KidsDE/workshop-quadcopter/issues"
     },
     "keywords": [
-        "drone",
-        "ardrone",
-        "nodecopter",
+        "devoxx4kids",
+        "workshop",
+        "quadcopter",
         "parrot",
         "autonomous",
-        "kalman",
-        "pid",
         "d4k",
         "d4kde"
     ],
     "dependencies": {
         "requirejs": "~2.1.15",
-        "ar-drone": "0.3.2"
+        "ar-drone": "0.3.2",
+        "ardrone-autonomy": "https://github.com/derTobsch/ardrone-autonomy/tarball/master"
     },
-    "author": "Tobias Schneider <schneider@synyx.de>",
+    "authors": [
+        "Tobias Schneider <schneider@synyx.de>"
+    ],
     "license": "MIT"
 }
