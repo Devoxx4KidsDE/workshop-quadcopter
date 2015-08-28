@@ -40,13 +40,13 @@ The presentation and a handout for the kids are available in the presentation di
 Check this out with the https://github.com/derTobsch/ardrone-autonomy repository side by side.
 
 ```sh
-git clone https://github.com/derTobsch/ardrone-autonomy-d4k.git
+git clone git@github.com:Devoxx4KidsDE/workshop-quadcopter.git
 git clone https://github.com/derTobsch/ardrone-autonomy.git
 ```
 
-Go to the 'ardrone-autonomy-d4k' directory
+Go to the 'workshop-quadcopter' directory
 ```sh
-cd ardrone-autonomy-d4k
+cd workshop-quadcopter
 ```
 
 Install all dependencies via npm (Node has to be installed, http://nodejs.org/)
@@ -56,9 +56,9 @@ npm install
 
 # How to use
 
-Go to the 'ardrone-autonomy-d4k' directory
+Go to the 'workshop-quadcopter' directory
 ```sh
-cd ardrone-autonomy-d4k
+cd workshop-quadcopter
 ```
 
 Start a mission which is located in the workshop directory with
