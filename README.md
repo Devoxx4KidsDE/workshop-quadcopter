@@ -1,3 +1,6 @@
+![Devoxx4Kids](http://www.devoxx4kids.de/wp-content/uploads/2015/07/cropped-header_hp.jpg)
+
+
 [![Dependency Status](https://david-dm.org/Devoxx4KidsDE/workshop-quadcopter.svg)](https://david-dm.org/Devoxx4KidsDE/workshop-quadcopter)
 
 # Devoxx4Kids quadcopter workshops
